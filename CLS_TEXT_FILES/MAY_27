@@ -6,7 +6,7 @@
 3. To check whether Python is installed or not type the following command in CMD
 	python --version
 
-4. Before checking the version  add the Python installation floder path in the  variables.
+4. Before checking the version  add the Python installation floder path in the SYSTEM ENV variables.
 
 
 --------------------------
@@ -15,7 +15,7 @@
 2.https://git-scm.com/download/win 
 3.Install the downloaded .exe file
 4. After installation , just type the 
-	git -version
+	git --version
 
 5. And In every floder , you  can able to see two option (GIT BASH , GITG GUI)
 
@@ -37,7 +37,7 @@ Pull the Repo.
 
 2. Open the Git bash
 	git clone <url>
-3. git clone https://github.com/anil-k-rajamoni18/Python_Session_June.git
+3. git clone origin https://github.com/anil-k-rajamoni18/Python_Aug.git
 
 4. Every time to get the lastest changes , just do 
 	git pull
